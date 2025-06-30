@@ -1,0 +1,41 @@
+{
+  "image": [
+    {
+      "subject": "Gatotkaca versi futuristik",
+      "details": "mengenakan zirah berteknologi tinggi dengan detail neon, berdiri di atas gedung pencakar langit Jakarta",
+      "style": "Model 3D",
+      "artistStyle": "Vitaly Bulgarov",
+      "aspectRatio": "--ar 9:16 (Portrait)"
+    },
+    {
+      "subject": "Suasana pasar terapung di Kalimantan saat fajar",
+      "details": "kabut tipis di atas air, lentera-lentera hangat di perahu, pantulan cahaya matahari terbit di air yang tenang",
+      "style": "Gaya Anime",
+      "artistStyle": "Makoto Shinkai",
+      "aspectRatio": "--ar 16:9 (Landscape)"
+    },
+    {
+      "subject": "Hidangan Nasi Goreng Seafood",
+      "details": "disajikan di atas piring gerabah, dengan udang besar, telur mata sapi setengah matang, dan taburan bawang goreng renyah",
+      "style": "Fotorealistis",
+      "artistStyle": "",
+      "aspectRatio": "--ar 1:1 (Persegi)"
+    }
+  ],
+  "text": [
+    {
+      "task": "Buat caption media sosial",
+      "topic": "Promo diskon 50% untuk produk kopi Gayo arabika spesial Hari Kemerdekaan",
+      "tone": "Santai & Ramah",
+      "audience": "Pecinta kopi usia 20-35 tahun",
+      "length": "Sangat Pendek (1 paragraf)"
+    },
+    {
+      "task": "Tulis sebuah artikel blog",
+      "topic": "5 tips untuk tetap produktif saat bekerja dari rumah (WFH)",
+      "tone": "Informatif & Edukatif",
+      "audience": "Karyawan kantoran yang baru pertama kali WFH",
+      "length": "Sedang (3-4 paragraf)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "subject": { "label": "Subjek Utama", "type": "textarea", "placeholder": "Contoh: Seekor naga Jawa sedang minum kopi di warung", "description": "Apa tokoh atau objek utama dalam imajinasi Anda?" },
+  "details": { "label": "Detail Tambahan", "type": "textarea", "placeholder": "Contoh: memakai blangkon, detail batik, suasana malam hari", "description": "Jelaskan detail spesifik seperti pakaian, latar, atau suasana." },
+  "style": { "label": "Gaya Seni Dasar", "type": "select", "options": [ "Fotorealistis", "Gaya Anime", "Lukisan Cat Minyak", "Seni Piksel", "Model 3D", "Kartun Pixar", "Seni Datar (Flat Art)" ], "description": "Pilih tampilan visual dasar yang Anda inginkan." },
+  "artistStyle": { "label": "Gaya Seniman Spesifik (Opsional)", "type": "artist_picker", "description": "Pilih gaya visual dari seniman terkenal untuk memberi sentuhan unik.", "artists": [
+      { "name": "Greg Rutkowski", "style": "Fantasi Epik, Dramatis", "imageUrl": "https://placehold.co/400x300/1e293b/ffffff?text=Fantasi+Epik" },
+      { "name": "Makoto Shinkai", "style": "Anime Pemandangan Indah", "imageUrl": "https://placehold.co/400x300/4a7a9c/ffffff?text=Anime+Indah" },
+      { "name": "Wes Anderson", "style": "Simetris, Warna Pastel", "imageUrl": "https://placehold.co/400x300/f2d2a9/000000?text=Simetris" },
+      { "name": "Tim Burton", "style": "Gotik, Aneh, Gelap", "imageUrl": "https://placehold.co/400x300/3c3c3c/ffffff?text=Gotik" },
+      { "name": "Studio Ghibli", "style": "Fantasi Hangat, Alami", "imageUrl": "https://placehold.co/400x300/8bc34a/ffffff?text=Ghibli" },
+      { "name": "Van Gogh", "style": "Post-Impressionism, Kuas Tebal", "imageUrl": "https://placehold.co/400x300/2952a3/ffffff?text=Van+Gogh" }
+    ]
+  },
+  "aspectRatio": { "label": "Rasio Aspek", "type": "select", "options": ["--ar 16:9 (Landscape)", "--ar 9:16 (Portrait)", "--ar 1:1 (Persegi)"], "description": "Pilih orientasi akhir gambar Anda." }
+}

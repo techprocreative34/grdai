@@ -1,0 +1,32 @@
+{
+  "task": {
+    "label": "Tugas Utama",
+    "type": "select",
+    "options": [ "Tulis sebuah artikel blog", "Buat caption media sosial", "Rancang sebuah email marketing", "Buat deskripsi produk", "Susun sebuah naskah video pendek" ],
+    "description": "Apa tujuan akhir dari teks yang ingin Anda buat?"
+  },
+  "topic": {
+    "label": "Topik",
+    "type": "textarea",
+    "placeholder": "Contoh: Manfaat teh hijau untuk kesehatan",
+    "description": "Tuliskan topik atau ide utama dari konten Anda."
+  },
+  "tone": {
+    "label": "Gaya Bahasa (Tone)",
+    "type": "select",
+    "options": ["Profesional", "Santai & Ramah", "Informatif & Edukatif", "Jenaka & Menghibur", "Meyakinkan (Persuasif)"],
+    "description": "Pilih suasana atau gaya penulisan yang diinginkan."
+  },
+  "audience": {
+    "label": "Target Pembaca",
+    "type": "textarea",
+    "placeholder": "Contoh: Profesional muda usia 25-35 tahun",
+    "description": "Siapa yang akan membaca teks ini?"
+  },
+  "length": {
+    "label": "Panjang Konten",
+    "type": "select",
+    "options": ["Sangat Pendek (1 paragraf)", "Sedang (3-4 paragraf)", "Panjang (5+ paragraf)"],
+    "description": "Pilih perkiraan panjang konten yang Anda butuhkan."
+  }
+}
